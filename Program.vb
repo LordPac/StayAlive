@@ -16,7 +16,7 @@ Module Program
 
     Sub Main()
         '-##############################################
-        ' Declare variables to hold the cursor position and time of last movement
+        ' Declare variables to hold the cursor position and time of last movementx
         '-##############################################
         Dim currentPos As New Point()
         Dim lastPos As New Point()
